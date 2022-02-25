@@ -1,6 +1,6 @@
 # dismusic
 
-Music cog for discord bots. Supports YouTube, YoutubeMusic, SoundCloud and Spotify.
+Music cog for discord bots. Supports YouTube, YoutubeMusic, SoundCloud, Spotify, Bandcamp, and Twitch.
 
 # Installation
 
